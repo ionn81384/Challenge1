@@ -1,0 +1,2544 @@
+fileFormatVersion: 2
+guid: ead704119bb239e4e9016f3215cbe58a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7029611494636641910
+    second: free-icon-symbols-13_0
+  - first:
+      213: -421226241030758372
+    second: free-icon-symbols-13_1
+  - first:
+      213: -6386594365861570460
+    second: free-icon-symbols-13_2
+  - first:
+      213: -1068773849720060550
+    second: free-icon-symbols-13_3
+  - first:
+      213: -6609553690368418717
+    second: free-icon-symbols-13_4
+  - first:
+      213: 6156111476255614090
+    second: free-icon-symbols-13_5
+  - first:
+      213: 3410314533400295040
+    second: free-icon-symbols-13_6
+  - first:
+      213: -878492185584003962
+    second: free-icon-symbols-13_7
+  - first:
+      213: 519925392231952605
+    second: free-icon-symbols-13_8
+  - first:
+      213: 5198893150506253145
+    second: free-icon-symbols-13_9
+  - first:
+      213: 8709676630886444238
+    second: free-icon-symbols-13_10
+  - first:
+      213: 4309679125196763840
+    second: free-icon-symbols-13_11
+  - first:
+      213: -4099220708980031435
+    second: free-icon-symbols-13_12
+  - first:
+      213: 8714272795707133437
+    second: free-icon-symbols-13_13
+  - first:
+      213: -9098128604553601075
+    second: free-icon-symbols-13_14
+  - first:
+      213: -7147553346016993915
+    second: free-icon-symbols-13_15
+  - first:
+      213: 2655185964845006947
+    second: free-icon-symbols-13_16
+  - first:
+      213: 3324885073952419098
+    second: free-icon-symbols-13_17
+  - first:
+      213: 1815787246058254734
+    second: free-icon-symbols-13_18
+  - first:
+      213: -5847360139217557144
+    second: free-icon-symbols-13_19
+  - first:
+      213: 448574888140256112
+    second: free-icon-symbols-13_20
+  - first:
+      213: 3948334008800997400
+    second: free-icon-symbols-13_21
+  - first:
+      213: 3106679344572687295
+    second: free-icon-symbols-13_22
+  - first:
+      213: 7551871853906386691
+    second: free-icon-symbols-13_23
+  - first:
+      213: -6719324400569972461
+    second: free-icon-symbols-13_24
+  - first:
+      213: -6293966813689586423
+    second: free-icon-symbols-13_25
+  - first:
+      213: -3783108320774929897
+    second: free-icon-symbols-13_26
+  - first:
+      213: 437174460112844846
+    second: free-icon-symbols-13_27
+  - first:
+      213: 8054254730509183009
+    second: free-icon-symbols-13_28
+  - first:
+      213: -8403602518522379617
+    second: free-icon-symbols-13_29
+  - first:
+      213: -1262825411203257569
+    second: free-icon-symbols-13_30
+  - first:
+      213: -8523649188729199497
+    second: free-icon-symbols-13_31
+  - first:
+      213: 3625186268266184026
+    second: free-icon-symbols-13_32
+  - first:
+      213: 4675754135031088925
+    second: free-icon-symbols-13_33
+  - first:
+      213: -3257942143553617643
+    second: free-icon-symbols-13_34
+  - first:
+      213: 5479515131266666067
+    second: free-icon-symbols-13_35
+  - first:
+      213: -15003571476491585
+    second: free-icon-symbols-13_36
+  - first:
+      213: -2466492153388965254
+    second: free-icon-symbols-13_37
+  - first:
+      213: -3797592200317863319
+    second: free-icon-symbols-13_38
+  - first:
+      213: 1435414952312814219
+    second: free-icon-symbols-13_39
+  - first:
+      213: 2104133692470151283
+    second: free-icon-symbols-13_40
+  - first:
+      213: 897854327524939333
+    second: free-icon-symbols-13_41
+  - first:
+      213: -8989232511451077667
+    second: free-icon-symbols-13_42
+  - first:
+      213: -6540046804822962192
+    second: free-icon-symbols-13_43
+  - first:
+      213: -6961576785527811890
+    second: free-icon-symbols-13_44
+  - first:
+      213: -3855371640310238340
+    second: free-icon-symbols-13_45
+  - first:
+      213: -8563386707787618022
+    second: free-icon-symbols-13_46
+  - first:
+      213: 8684048753419989375
+    second: free-icon-symbols-13_47
+  - first:
+      213: 8831266368241019017
+    second: free-icon-symbols-13_48
+  - first:
+      213: 5997934596864946765
+    second: free-icon-symbols-13_49
+  - first:
+      213: 4865827982524209204
+    second: free-icon-symbols-13_50
+  - first:
+      213: -8907050135439109940
+    second: free-icon-symbols-13_51
+  - first:
+      213: -3972383515916688135
+    second: free-icon-symbols-13_52
+  - first:
+      213: 6717074728937795231
+    second: free-icon-symbols-13_53
+  - first:
+      213: -1781406437114340472
+    second: free-icon-symbols-13_54
+  - first:
+      213: -8933109729249471185
+    second: free-icon-symbols-13_55
+  - first:
+      213: -7129676422595520369
+    second: free-icon-symbols-13_56
+  - first:
+      213: -7633851292006225618
+    second: free-icon-symbols-13_57
+  - first:
+      213: 5401821062392152730
+    second: free-icon-symbols-13_58
+  - first:
+      213: -6134638066949911509
+    second: free-icon-symbols-13_59
+  - first:
+      213: 8559492640715099197
+    second: free-icon-symbols-13_60
+  - first:
+      213: -8442577227831401648
+    second: free-icon-symbols-13_61
+  - first:
+      213: 6960071181295488637
+    second: free-icon-symbols-13_62
+  - first:
+      213: -2291406861249197704
+    second: free-icon-symbols-13_63
+  - first:
+      213: -280013632575674695
+    second: free-icon-symbols-13_64
+  - first:
+      213: 7148683187606762327
+    second: free-icon-symbols-13_65
+  - first:
+      213: -8039312116609187407
+    second: free-icon-symbols-13_66
+  - first:
+      213: -7753258065397818314
+    second: free-icon-symbols-13_67
+  - first:
+      213: 2143769761896507324
+    second: free-icon-symbols-13_68
+  - first:
+      213: -6770218148915550835
+    second: free-icon-symbols-13_69
+  - first:
+      213: 5899482304323128765
+    second: free-icon-symbols-13_70
+  - first:
+      213: -854808513860118211
+    second: free-icon-symbols-13_71
+  - first:
+      213: -9008811248411143123
+    second: free-icon-symbols-13_72
+  - first:
+      213: -2068135416220199494
+    second: free-icon-symbols-13_73
+  - first:
+      213: -8770454082853413522
+    second: free-icon-symbols-13_74
+  - first:
+      213: -3393206395196638696
+    second: free-icon-symbols-13_75
+  - first:
+      213: 1671775428462564096
+    second: free-icon-symbols-13_76
+  - first:
+      213: -5263395607342241780
+    second: free-icon-symbols-13_77
+  - first:
+      213: 8078771147030047459
+    second: free-icon-symbols-13_78
+  - first:
+      213: -3466234167444348700
+    second: free-icon-symbols-13_79
+  - first:
+      213: -3318732071110165195
+    second: free-icon-symbols-13_80
+  - first:
+      213: 1034227939023282215
+    second: free-icon-symbols-13_81
+  - first:
+      213: -165574365129278155
+    second: free-icon-symbols-13_82
+  - first:
+      213: 6463166745620714023
+    second: free-icon-symbols-13_83
+  - first:
+      213: 4648202054514956963
+    second: free-icon-symbols-13_84
+  - first:
+      213: 435189833070536981
+    second: free-icon-symbols-13_85
+  - first:
+      213: -4590041957392160927
+    second: free-icon-symbols-13_86
+  - first:
+      213: 6301402030360676471
+    second: free-icon-symbols-13_87
+  - first:
+      213: -6718087698281753007
+    second: free-icon-symbols-13_88
+  - first:
+      213: 8540204599263548681
+    second: free-icon-symbols-13_89
+  - first:
+      213: -488941833623756806
+    second: free-icon-symbols-13_90
+  - first:
+      213: -1152651319928801905
+    second: free-icon-symbols-13_91
+  - first:
+      213: 3471282929315576939
+    second: free-icon-symbols-13_92
+  - first:
+      213: 2552477276996847078
+    second: free-icon-symbols-13_93
+  - first:
+      213: -3923178094873393295
+    second: free-icon-symbols-13_94
+  - first:
+      213: 6907905983299966988
+    second: free-icon-symbols-13_95
+  - first:
+      213: 5948612664500435324
+    second: free-icon-symbols-13_96
+  - first:
+      213: 1970774572184485799
+    second: free-icon-symbols-13_97
+  - first:
+      213: -8818170414687123668
+    second: free-icon-symbols-13_98
+  - first:
+      213: 6824266037820688335
+    second: free-icon-symbols-13_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: free-icon-symbols-13_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a812e21179dc17e90800000000000000
+      internalID: -7029611494636641910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e94d27f0872af0800000000000000
+      internalID: -421226241030758372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4685f4a03424e57a0800000000000000
+      internalID: -6386594365861570460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758536a8d3fa21f0800000000000000
+      internalID: -1068773849720060550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd7b100f52644a0800000000000000
+      internalID: -6609553690368418717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84ebeb65c6ee6550800000000000000
+      internalID: 6156111476255614090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0863dafdffed35f20800000000000000
+      internalID: 3410314533400295040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_7
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6841f4cf208fec3f0800000000000000
+      internalID: -878492185584003962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_8
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f0b9b365273700800000000000000
+      internalID: 519925392231952605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 508.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf22586cd262840800000000000000
+      internalID: 5198893150506253145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecce18cffbcfed870800000000000000
+      internalID: 8709676630886444238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f449a45e0fcb30800000000000000
+      internalID: 4309679125196763840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300259db74ac17c0800000000000000
+      internalID: -4099220708980031435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd49ffffe05fe870800000000000000
+      internalID: 8714272795707133437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf13c4fc34fcb180800000000000000
+      internalID: -9098128604553601075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9085e91acecc90800000000000000
+      internalID: -7147553346016993915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608037319d19d420800000000000000
+      internalID: 2655185964845006947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_17
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1daee7db5d542e20800000000000000
+      internalID: 3324885073952419098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81bcfc31e8f23910800000000000000
+      internalID: 1815787246058254734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_19
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 452.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869a82c1fe00adea0800000000000000
+      internalID: -5847360139217557144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073b2ceeb78a93600800000000000000
+      internalID: 448574888140256112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107d21acdc4bc630800000000000000
+      internalID: 3948334008800997400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb36c4c67642d1b20800000000000000
+      internalID: 3106679344572687295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f5c598073adc860800000000000000
+      internalID: 7551871853906386691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198965ee0a20c2a0800000000000000
+      internalID: -6719324400569972461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5fe1a78657a8a0800000000000000
+      internalID: -6293966813689586423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c269a603bf7bc0800000000000000
+      internalID: -3783108320774929897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_27
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2836efead7211600800000000000000
+      internalID: 437174460112844846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_28
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128628e010676cf60800000000000000
+      internalID: 8054254730509183009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_29
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 396.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9245e99808606b80800000000000000
+      internalID: -8403602518522379617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba4efaafa897ee0800000000000000
+      internalID: -1262825411203257569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_31
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774efbb193ae5b980800000000000000
+      internalID: -8523649188729199497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d31a434bf3f4230800000000000000
+      internalID: 3625186268266184026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d178793dc9d93e040800000000000000
+      internalID: 4675754135031088925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51146bab1e679c2d0800000000000000
+      internalID: -3257942143553617643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e078ceaf52b0c40800000000000000
+      internalID: 5479515131266666067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_36
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb218cbc452bacff0800000000000000
+      internalID: -15003571476491585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7266fb547245cdd0800000000000000
+      internalID: -2466492153388965254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_38
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a724aa30e3c4bc0800000000000000
+      internalID: -3797592200317863319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 340.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab3e14b4e9be310800000000000000
+      internalID: 1435414952312814219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3784d93f172633d10800000000000000
+      internalID: 2104133692470151283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546db2cf0c1d57c00800000000000000
+      internalID: 897854327524939333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e09768a4df3380800000000000000
+      internalID: -8989232511451077667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_43
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4918e4161d35a0800000000000000
+      internalID: -6540046804822962192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_44
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0520e2cc2836f90800000000000000
+      internalID: -6961576785527811890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7371367be7fe7ac0800000000000000
+      internalID: -3855371640310238340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196408f82db82980800000000000000
+      internalID: -8563386707787618022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71b5c7c450f38870800000000000000
+      internalID: 8684048753419989375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_48
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882cdbc8f5fe8a70800000000000000
+      internalID: 8831266368241019017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_49
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 284.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d423928ccb1fc3350800000000000000
+      internalID: 5997934596864946765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438d28415c4e68340800000000000000
+      internalID: 4865827982524209204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc09e88e71dc36480800000000000000
+      internalID: -8907050135439109940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f42b262d324fd8c0800000000000000
+      internalID: -3972383515916688135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e271c90e7d73d50800000000000000
+      internalID: 6717074728937795231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_54
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9433a84c2747e0800000000000000
+      internalID: -1781406437114340472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_55
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25df78e708370480800000000000000
+      internalID: -8933109729249471185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8857bb711d4e0d90800000000000000
+      internalID: -7129676422595520369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29efcf12bc1f0690800000000000000
+      internalID: -7633851292006225618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a928b1cd2af17fa40800000000000000
+      internalID: 5401821062392152730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 228.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c8cd94e236ddaa0800000000000000
+      internalID: -6134638066949911509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc463e43d69c670800000000000000
+      internalID: 8559492640715099197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_61
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053ae42fdb0f5da80800000000000000
+      internalID: -8442577227831401648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0d840dd3279060800000000000000
+      internalID: 6960071181295488637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879495f99994330e0800000000000000
+      internalID: -2291406861249197704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_64
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b66f02b5113d1cf0800000000000000
+      internalID: -280013632575674695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_65
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753bb19db79353360800000000000000
+      internalID: 7148683187606762327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1040b5930ae6090800000000000000
+      internalID: -8039312116609187407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cd7083ed4e66490800000000000000
+      internalID: -7753258065397818314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_68
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a0128d3330cd10800000000000000
+      internalID: 2143769761896507324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_69
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 172.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d856cf5b67a5b02a0800000000000000
+      internalID: -6770218148915550835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd02e326eb2fd150800000000000000
+      internalID: 5899482304323128765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_71
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3953648f2c1324f0800000000000000
+      internalID: -854808513860118211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2419e976e54af280800000000000000
+      internalID: -9008811248411143123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_73
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab55ac0ebc18c43e0800000000000000
+      internalID: -2068135416220199494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd5a0ca76194680800000000000000
+      internalID: -8770454082853413522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_75
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a78b4f2c8e8e0d0800000000000000
+      internalID: -3393206395196638696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_76
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003dcbd05e6533710800000000000000
+      internalID: 1671775428462564096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a300f499a4f6b0800000000000000
+      internalID: -5263395607342241780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaa6681e8f8d1070800000000000000
+      internalID: 8078771147030047459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_79
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 116.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0682db36675efc0800000000000000
+      internalID: -3466234167444348700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d38c4c3ce71f1d0800000000000000
+      internalID: -3318732071110165195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720644ab4d05a5e00800000000000000
+      internalID: 1034227939023282215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfe8efdf2c3bdf0800000000000000
+      internalID: -165574365129278155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_83
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72217dc69e7c1b950800000000000000
+      internalID: 6463166745620714023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_84
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aada9f242bb18040800000000000000
+      internalID: 4648202054514956963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_85
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519e702f8da1a0600800000000000000
+      internalID: 435189833070536981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676089a825ec40c0800000000000000
+      internalID: -4590041957392160927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c296a2c3137750800000000000000
+      internalID: 6301402030360676471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569ef515de84c2a0800000000000000
+      internalID: -6718087698281753007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 60.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905d248c5d6e48670800000000000000
+      internalID: 8540204599263548681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff170b2efde639f0800000000000000
+      internalID: -488941833623756806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_91
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8532c54bb5f000f0800000000000000
+      internalID: -1152651319928801905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7bbcbe697c2030800000000000000
+      internalID: 3471282929315576939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e547a05f883c6320800000000000000
+      internalID: 2552477276996847078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_94
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774a700f421e89c0800000000000000
+      internalID: -3923178094873393295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_95
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08d36464efcddf50800000000000000
+      internalID: 6907905983299966988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7930f583b7bd8250800000000000000
+      internalID: 5948612664500435324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afbd632809995b10800000000000000
+      internalID: 1970774572184485799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_98
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2707bf7ab09f9580800000000000000
+      internalID: -8818170414687123668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: free-icon-symbols-13_99
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 4.5
+        width: 56.4
+        height: 56.5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7801d0ec9a4be50800000000000000
+      internalID: 6824266037820688335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b91b80d704711204580e670568e18473
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
