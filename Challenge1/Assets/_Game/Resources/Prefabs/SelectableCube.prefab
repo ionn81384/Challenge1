@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5332566958576449890}
   m_Layer: 0
   m_Name: free-icon-symbols-13_0 (3)
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 397521795809454988}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0.51, y: 0, z: 0}
-  m_LocalScale: {x: 0.31, y: 0.34, z: 1}
+  m_LocalScale: {x: 0.19, y: 0.34, z: 1}
   m_Children: []
   m_Father: {fileID: 6272340141986573635}
   m_RootOrder: 3
@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 6972779478301898438}
   m_Layer: 0
   m_Name: free-icon-symbols-13_0 (1)
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108,7 +108,7 @@ Transform:
   m_GameObject: {fileID: 5039062387547765528}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -0.51}
-  m_LocalScale: {x: 0.31, y: 0.34, z: 1}
+  m_LocalScale: {x: 0.19, y: 0.34, z: 1}
   m_Children: []
   m_Father: {fileID: 6272340141986573635}
   m_RootOrder: 1
@@ -176,7 +176,7 @@ GameObject:
   - component: {fileID: 648060763160742813}
   m_Layer: 0
   m_Name: free-icon-symbols-13_0
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -190,7 +190,7 @@ Transform:
   m_GameObject: {fileID: 5632795411955089000}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0.51}
-  m_LocalScale: {x: 0.31, y: 0.34, z: 1}
+  m_LocalScale: {x: 0.19, y: 0.34, z: 1}
   m_Children: []
   m_Father: {fileID: 6272340141986573635}
   m_RootOrder: 0
@@ -363,6 +363,8 @@ MonoBehaviour:
   - {fileID: 6972779478301898438}
   - {fileID: 8716397167713231935}
   - {fileID: 5332566958576449890}
+  spriteName: 
+  cube: {fileID: 0}
 --- !u!1 &7510991922916180577
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,7 +377,7 @@ GameObject:
   - component: {fileID: 8716397167713231935}
   m_Layer: 0
   m_Name: free-icon-symbols-13_0 (2)
-  m_TagString: Untagged
+  m_TagString: cube
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -389,7 +391,7 @@ Transform:
   m_GameObject: {fileID: 7510991922916180577}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
   m_LocalPosition: {x: -0.51, y: 0, z: 0}
-  m_LocalScale: {x: 0.31, y: 0.34, z: 1}
+  m_LocalScale: {x: 0.19, y: 0.34, z: 1}
   m_Children: []
   m_Father: {fileID: 6272340141986573635}
   m_RootOrder: 2

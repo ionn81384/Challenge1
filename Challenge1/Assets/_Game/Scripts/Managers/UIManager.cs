@@ -15,4 +15,9 @@ public class UIManager : Singleton<UIManager>
     {
         
     }
+
+    public void Rotate(bool isLeft)
+    {
+        GameManager.Instance.RotateCube(isLeft);
+    }
 }

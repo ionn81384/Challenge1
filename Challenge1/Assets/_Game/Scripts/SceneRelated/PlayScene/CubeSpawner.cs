@@ -43,7 +43,7 @@ public class CubeSpawner : MonoBehaviour
             {
                 for (int k = 0; k < depth; k++)
                 {
-                    var newObject = Instantiate(prefab, new Vector3(i, j, k), Quaternion.identity);
+                    var newObject = Instantiate(prefab, new Vector3(-1.5f+i, j, -1.5f+k), Quaternion.identity);
                     newObject.transform.SetParent(gameObject.transform, false);
                     var script = newObject.GetComponent<SelectableCube>();
                     script.SetSprite(cubeSymbolSprites[currentSprite]);
