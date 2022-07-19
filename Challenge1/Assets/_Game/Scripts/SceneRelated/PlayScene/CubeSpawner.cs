@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class CubeSpawner : MonoBehaviour
 {
-    List<GameObject> cubes = new List<GameObject>();
+    public List<GameObject> cubes = new List<GameObject>();
     // Start is called before the first frame update
     void Start()
     {
@@ -29,12 +29,21 @@ public class CubeSpawner : MonoBehaviour
         // Get prefab
         var prefab = GameManager.Instance.PrefabSelectableCube;
 
-        var sprites = new Sprite[(coulumn * rows * depth) / 2];
-        Array.Copy(GameManager.Instance.sprites, sprites, (coulumn * rows * depth) / 2);
-        var cubeSymbolSprites = new Sprite[sprites.Length*2];
-        Array.Copy(sprites, cubeSymbolSprites, sprites.Length);
-        Array.Copy(sprites, 0, cubeSymbolSprites, sprites.Length, sprites.Length);
-        Shuffle(cubeSymbolSprites);
+        var sprites = new Sprite[(coulumn * rows * depth) / 4];
+        Array.Copy(GameManager.Instance.sprites, sprites, (coulumn * rows * depth) / 4);
+        //var cubeSymbolSprites = new Sprite[sprites.Length*2];
+        //Array.Copy(sprites, cubeSymbolSprites, sprites.Length);
+        //Array.Copy(sprites, 0, cubeSymbolSprites, sprites.Length, sprites.Length);
+
+        var SpriteList = new List<Sprite>();
+        for (int i = 0; i < 4; i++)
+        {
+            SpriteList.AddRange(sprites);
+        }
+
+
+        var shuffledSprites = SpriteList.ToArray();
+        Shuffle(shuffledSprites);
 
         var currentSprite = 0;
         for (int i = 0; i < rows; i++)
@@ -46,9 +55,11 @@ public class CubeSpawner : MonoBehaviour
                     var newObject = Instantiate(prefab, new Vector3(-1.5f+i, j, -1.5f+k), Quaternion.identity);
                     newObject.transform.SetParent(gameObject.transform, false);
                     var script = newObject.GetComponent<SelectableCube>();
-                    script.SetSprite(cubeSymbolSprites[currentSprite]);
+                    script.SetSprite(shuffledSprites[currentSprite]);
                     currentSprite++;
                     cubes.Add(newObject);
+                    if(currentSprite >= shuffledSprites.Length)
+                        currentSprite = 0;
                 }
                 yield return null;
             }

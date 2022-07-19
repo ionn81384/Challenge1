@@ -10,39 +10,17 @@ public class SelectableCube : MonoBehaviour
 
     public string spriteName;
     public Transform cube;
-    private Color[] c = new Color[] {Color.yellow,Color.yellow, Color.yellow, Color.yellow};
+    private List<Vector3> Sides = new List<Vector3>() {
+            new Vector3(0.5f,0,0),
+            new Vector3(-0.5f,0,0),
+            new Vector3(0,0,0.5f),
+            new Vector3(0,0,-0.5f),
+        };
 
     // Start is called before the first frame update
     void Start()
     {
         cube = this.transform;
-    }
-
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-        //var Reach = 0.1f;
-        //var sides = new List<Vector3>() {
-        //    new Vector3(0.5f,0,0),
-        //    new Vector3(-0.5f,0,0),
-        //    new Vector3(0,0,0.5f),
-        //    new Vector3(0,0,-0.5f),
-        //};
-        //var hit = new RaycastHit();
-        //var freeFaces = 0;
-        //for (int i = 0; i < 4; i++)
-        //{
-        //    Debug.DrawRay(transform.position + sides[i], sides[i] * Reach, c[i]);
-        //    var isHit = Physics.Raycast(transform.position + sides[i], sides[i], out hit, Reach);
-        //    if (!(isHit && hit.transform.tag == "cube"))
-        //    {
-        //        c[i] = Color.red;
-        //    }
-        //    else
-        //    {
-        //        c[i] = Color.white;
-        //    }
-        //}
     }
 
     public void SetSprite(Sprite s)
@@ -77,6 +55,7 @@ public class SelectableCube : MonoBehaviour
 
     private IEnumerator ScaleObject(bool isEnter)
     {
+        // TODO fix raycast and DG tween scaling efect
         //if (isEnter)
         //{
         //    this.transform.DOScale(1.1f, 0.5f);
@@ -92,17 +71,12 @@ public class SelectableCube : MonoBehaviour
     public bool IsSelectable()
     {
         var Reach = 0.1f;
-        var sides = new List<Vector3>() {
-            new Vector3(0.5f,0,0),
-            new Vector3(-0.5f,0,0),
-            new Vector3(0,0,0.5f),
-            new Vector3(0,0,-0.5f),
-        };
+
         var hit = new RaycastHit();
         var freeFaces = 0;
-        for (int i = 0; i < sides.Count; i++)
+        for (int i = 0; i < Sides.Count; i++)
         {
-            var isHit = Physics.Raycast(transform.position + sides[i], sides[i]*Reach, out hit);
+            var isHit = Physics.Raycast(transform.position + Sides[i], Sides[i] * Reach, out hit);
             if (!(isHit && hit.transform.tag == "cube"))
             {
                 freeFaces++;
@@ -110,11 +84,9 @@ public class SelectableCube : MonoBehaviour
 
             if (freeFaces >= 2)
             {
-                Debug.Log("is select");
                 return true;
             }
         }
-        Debug.Log("Is not selectable");
         return false;
     }
 }
