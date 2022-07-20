@@ -12,12 +12,6 @@ public class CubeSpawner : MonoBehaviour
         StartCoroutine(Spawn(4,4,4));
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public IEnumerator Spawn(int coulumn, int rows, int depth)
     {
         if ((coulumn * rows * depth) % 2 != 0)
@@ -29,21 +23,20 @@ public class CubeSpawner : MonoBehaviour
         // Get prefab
         var prefab = GameManager.Instance.PrefabSelectableCube;
 
+        // TODO change to use 6 sprites 
+        // Get sprites 
         var sprites = new Sprite[(coulumn * rows * depth) / 4];
         Array.Copy(GameManager.Instance.sprites, sprites, (coulumn * rows * depth) / 4);
-        //var cubeSymbolSprites = new Sprite[sprites.Length*2];
-        //Array.Copy(sprites, cubeSymbolSprites, sprites.Length);
-        //Array.Copy(sprites, 0, cubeSymbolSprites, sprites.Length, sprites.Length);
-
         var SpriteList = new List<Sprite>();
         for (int i = 0; i < 4; i++)
         {
             SpriteList.AddRange(sprites);
         }
-
+        yield return null;
 
         var shuffledSprites = SpriteList.ToArray();
         Shuffle(shuffledSprites);
+        yield return null;
 
         var currentSprite = 0;
         for (int i = 0; i < rows; i++)
@@ -70,23 +63,19 @@ public class CubeSpawner : MonoBehaviour
 
     public IEnumerator Respawn()
     {
-        // TODO if the player get's stuck reposition cubes
+        // TODO if the player gets stuck reposition cubes
         foreach (var cube in cubes)
         {
-            if (cube.active)
+            if (cube.activeSelf)
             {
                 // set diferent positions
+
                 yield return null;
             }
         }
     }
 
-    public void SpawnFormat(bool[][][] cube)
-    {
-        // TODO defined by rows
-    }
-
-    //for shuffle number from array
+    //for shuffle sprite from array
     void Shuffle(Sprite[] array)
     {
         System.Random _random = new System.Random();

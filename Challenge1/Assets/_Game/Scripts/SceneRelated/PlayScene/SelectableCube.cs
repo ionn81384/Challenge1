@@ -10,6 +10,8 @@ public class SelectableCube : MonoBehaviour
 
     public string spriteName;
     public Transform cube;
+    public Renderer material;
+
     private List<Vector3> Sides = new List<Vector3>() {
             new Vector3(0.5f,0,0),
             new Vector3(-0.5f,0,0),
@@ -48,22 +50,31 @@ public class SelectableCube : MonoBehaviour
         StartCoroutine(ScaleObject(true));
     }
 
-    private void OnMouseUp()
+    private void OnMouseDown()
     {
         GameManager.Instance.MouseSelected(this);
     }
 
+    private void OnMouseDrag()
+    {
+        var rotationSpeed = 3f;
+        // for mobile has to be different
+        float XaxisRotation = Input.GetAxis("Mouse X") * rotationSpeed;
+        float YaxisRotation = Input.GetAxis("Mouse Y") * rotationSpeed;
+
+        transform.parent.transform.Rotate(Vector3.down, XaxisRotation);
+    }
+
     private IEnumerator ScaleObject(bool isEnter)
     {
-        // TODO fix raycast and DG tween scaling efect
-        //if (isEnter)
-        //{
-        //    this.transform.DOScale(1.1f, 0.5f);
-        //}
-        //else
-        //{
-        //    this.transform.DOScale(1f, 0.5f);
-        //}
+        if (isEnter)
+        {
+            material.material.DOColor(Color.green, 1);
+        }
+        else
+        {
+            material.material.DOColor(Color.white, 1);
+        }
 
         yield return null;
     }

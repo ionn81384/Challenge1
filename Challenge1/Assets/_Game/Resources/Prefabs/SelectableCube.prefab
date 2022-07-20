@@ -311,7 +311,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 60fbac4d2e423e74298554040c4783e6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -365,6 +365,7 @@ MonoBehaviour:
   - {fileID: 5332566958576449890}
   spriteName: 
   cube: {fileID: 0}
+  material: {fileID: 6272340141986573633}
 --- !u!1 &7510991922916180577
 GameObject:
   m_ObjectHideFlags: 0

@@ -21,6 +21,9 @@ public class GameManager : Singleton<GameManager>
     public float time = 300;
     public int currentScore = 0;
 
+    public Coroutine multiplierRoutine;
+    public int multiplier = 1;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,16 +32,10 @@ public class GameManager : Singleton<GameManager>
         cubeSpawner = FindObjectOfType<CubeSpawner>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void GameOver(bool playerWon = false)
     {
         isGameOver = true;
-        // TODO show canvas
+        UIManager.ShowWinOrLose(playerWon);
     }
 
     public void MouseOverCube(SelectableCube cube)
@@ -63,7 +60,7 @@ public class GameManager : Singleton<GameManager>
             selectedCubes.Dequeue();
         }
 
-        if(cube.cube.transform == selectedCubes.Peek().cube.transform)
+        if (cube.cube.transform == selectedCubes.Peek().cube.transform)
         {
             return false;
         }
@@ -92,7 +89,7 @@ public class GameManager : Singleton<GameManager>
 
     public void RotateCube(bool isLeft = false)
     {
-        if(CubeHolder!= null)
+        if (CubeHolder != null)
         {
             CubeHolder.transform.DOBlendableRotateBy(new Vector3(0, isLeft ? 90 : -90, 0), 1f);
         }
@@ -100,23 +97,55 @@ public class GameManager : Singleton<GameManager>
 
     private void AddScore()
     {
-        var multiplier = 1;
         currentScore += 100 * multiplier;
         UIManager.Instance.Scored(currentScore);
+        if (multiplierRoutine != null)
+            StopCoroutine(multiplierRoutine);
+        multiplierRoutine = StartCoroutine(Multiplier(true));
     }
 
     private void IsGameOver()
     {
+        // one is active then is still on
         foreach (var cube in cubeSpawner.cubes)
         {
-            if (cube.active)
+            if (cube.activeSelf)
                 return;
         }
         GameOver(true);
     }
-    
+
     public void Restart()
     {
-        // TODO restart score and timer
+        isInPause = false;
+        isGameOver = false;
+        time = 300;
+        currentScore = 0;
+        if (multiplierRoutine != null)
+            StopCoroutine(multiplierRoutine);
+        foreach (var cube in cubeSpawner.cubes)
+        {
+            Object.Destroy(cube);
+        }
+        cubeSpawner.cubes.Clear();
+        StartCoroutine(cubeSpawner.Spawn(4, 4, 4));
+    }
+
+    IEnumerator Multiplier(bool addValue)
+    {
+        if (multiplier >= 1 && addValue)
+        {
+            multiplier++;
+        }
+        UIManager.Instance.ChangedMultiplier(multiplier);
+        yield return new WaitForSeconds(3);
+
+        if (multiplier > 1)
+        {
+            multiplier--;
+            UIManager.Instance.ChangedMultiplier(multiplier);
+            // TODO this is nested coroutine... refactor
+            multiplierRoutine = StartCoroutine(Multiplier(false));
+        }
     }
 }
